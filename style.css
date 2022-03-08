@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-content {
+  padding: 50px;
+  border-radius: 5px;
+}
+.col-md-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  border-radius: 10px;
+}
+.cd1 {
+  border-top: 4px solid #00b7c3;
+}
+.cd2 {
+  border-top: 4px solid #c30052;
+}
+.cd3 {
+  border-top: 4px solid #ffb900;
+}
+.cd4 {
+  border-top: 4px solid #0063b1;
+}
